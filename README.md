@@ -30,6 +30,7 @@ Under scenes you can find example_hook.tscn which has everything already set up.
 Otherwise it's easy to setup, as you just need to add a new node to the player named "HookController"
 After the HookController is added, you just need to add your input names to the export variables, add the hook scene (the scene with the hook and rope) to the export variable, add a raycast to the player that shoots from the players camera and add it to the export variable and finally the hook source, which is a Node3D/Marker3D where the rope will connect.
 
+The models, placement and code can all be easily changed/modified to suit your needs.
 ## ABOUT:
 It honestly really annoyed me how there isn't any published spring based grappling systems in godot till now (it would have helped me a lot a year ago)
 
@@ -42,3 +43,5 @@ So I decided to make my own, it isn't perfect and is ment as a base to make bett
 The entire hook physics are simplified to a few lines of code, which is basically just logic for a Spring3D but reshaped a bit.
 
 Credit also goes to LowRezCat for making grappling hook 3D, which I used as a base to make my improved version.
+
+
