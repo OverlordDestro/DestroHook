@@ -37,6 +37,6 @@ I was really displeased by how everyone just made some crappy grappling system w
 
 I am aware that some people have done this before me, but to my investigations, haven't released the source code.
 
-So I decided to make my own, it isn't perfect and is ment as a base to make better systems on in the future, but it's better than what others have made.
+So I decided to make my own, it isn't perfect and is ment as a base to make better systems with in the future, but it's better than what others have made.
 
 The entire hook physics are simplified to a few lines of code, which is basically just logic for a Spring3D but reshaped a bit.
