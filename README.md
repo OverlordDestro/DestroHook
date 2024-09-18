@@ -32,7 +32,11 @@ After the HookController is added, you just need to add your input names to the 
 
 ## ABOUT:
 It honestly really annoyed me how there isn't any published spring based grappling systems in godot till now (it would have helped me a lot a year ago)
+
 I was really displeased by how everyone just made some crappy grappling system where it's just point and click, throw the player directly into the hook with some force, no swinging, no dampening, boring.
+
 I am aware that some people have done this before me, but to my investigations, haven't released the source code.
+
 So I decided to make my own, it isn't perfect and is ment as a base to make better systems on in the future, but it's better than what others have made.
+
 The entire hook physics are simplified to a few lines of code, which is basically just logic for a Spring3D but reshaped a bit.
