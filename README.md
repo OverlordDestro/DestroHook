@@ -25,6 +25,8 @@ you can also opt to not do that and instead change the action names in code or i
 ** NOTE: the grappling system works best when using a smoothed controler for the player, a non smoothed controler will cause undesired movement and effects. Because of this, I included my own basic character controler.
 
 ## HOW TO USE:
+In project settings, plugins, you will need to enable DestroHook so that the custom node shows up
+
 Under scenes you can find example_hook.tscn which has everything already set up.
 
 Otherwise it's easy to setup, as you just need to add a new node to the player named "HookController"
