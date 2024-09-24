@@ -4,6 +4,7 @@
 
 **Destro-hook is an add-on that simplifies the creation of a spring based grappling hook mechanic in Godot 4.3 3D**
 
+Introduction video: https://www.youtube.com/watch?v=ecikN4f2bsA
 This reposetory includes all the tools you need to add a grappling hook mechanic to your game, aswell as a scene with the grappling hook system and a character controler already implemented.
 
 ## FEATURES
